@@ -13,7 +13,7 @@ pip install -r requirements.txt
 python main.py 或者 scrapy crawl proxy
 ```
 
-# 后台运行代理 & 持续验证代理有效性
+# 后台持续运行代理 & 持续验证代理有效性
 欢迎关注公众号交流与学习~😝
 
 <div align="center" style="display: flex; flex-direction: column;">
