@@ -17,7 +17,7 @@ constantly==15.1.0
 cryptography==2.1.4
 cssselect==1.0.3
 dill==0.2.5
-ecdsa==0.13
+ecdsa==0.13.3
 enum34==1.1.6
 facebook-wda==0.2.2.dev1
 funcsigs==1.0.2
