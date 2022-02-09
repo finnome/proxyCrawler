@@ -97,7 +97,7 @@ selenium==2.53.1
 service-identity==17.0.0
 six==1.11.0
 tabulate==0.7.7
-tensorflow==1.5.0
+tensorflow==2.5.3
 tensorflow-tensorboard==1.5.0
 Twisted==16.4.1
 urllib3==1.22
