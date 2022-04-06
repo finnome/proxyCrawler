@@ -99,7 +99,7 @@ six==1.11.0
 tabulate==0.7.7
 tensorflow==1.5.0
 tensorflow-tensorboard==1.5.0
-Twisted==16.4.1
+Twisted==22.2.0
 urllib3==1.22
 vboxapi==1.0
 virtualenv==15.1.0
