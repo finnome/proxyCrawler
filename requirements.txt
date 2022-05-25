@@ -50,7 +50,7 @@ pycparser==2.18
 pycrypto==2.6.1
 PyDispatcher==2.0.5
 PyFunctional==1.1.2
-PyJWT==1.5.3
+PyJWT==2.4.0
 pyobjc-core==2.5.1
 pyobjc-framework-Accounts==2.5.1
 pyobjc-framework-AddressBook==2.5.1
